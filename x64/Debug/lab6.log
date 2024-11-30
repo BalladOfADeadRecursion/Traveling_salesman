@@ -1,0 +1,5 @@
+﻿  lab6.cpp
+C:\Users\olegk\source\repos\lab6\lab6.cpp(12,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\olegk\source\repos\lab6\lab6.cpp(13,30): warning C4334: <<: результат 32-разрядного смещения неявно преобразуется в 64-разрядное значение (предполагалось 64-разрядное смещение?)
+C:\Users\olegk\source\repos\lab6\lab6.cpp(14,10): warning C4334: <<: результат 32-разрядного смещения неявно преобразуется в 64-разрядное значение (предполагалось 64-разрядное смещение?)
+  lab6.vcxproj -> C:\Users\olegk\source\repos\lab6\x64\Debug\lab6.exe
